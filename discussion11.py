@@ -49,6 +49,7 @@ def create_patients_table(cur, conn):
 # ADD FLUFFLE TO THE TABLE
 def add_fluffle(cur, conn):
     pass
+#hi fluffle
     
 
 # TASK 2
