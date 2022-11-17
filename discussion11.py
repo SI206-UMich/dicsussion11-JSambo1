@@ -50,6 +50,7 @@ def create_patients_table(cur, conn):
 def add_fluffle(cur, conn):
     pass
 #hi fluffle
+#last thing for the git commits
     
 
 # TASK 2
